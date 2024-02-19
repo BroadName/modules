@@ -1,5 +1,6 @@
 from module.application.db.people import get_employees
 from module.application.salary import calculate_salary
+from module.dirty_main import *
 from datetime import datetime
 
 
